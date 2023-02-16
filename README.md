@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there I'm David 👋
 
 <!--
 **david12291/david12291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm not a great programmer; I'm just a good programmer with great habits like using Git, drinking coffee, and never giving up on a bug. I code, I break things, and sometimes I fix them too. When I'm not coding, I'm probably cruising or trying out new pizza places. Let's make some cool things together!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

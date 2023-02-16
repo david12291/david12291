@@ -1,5 +1,7 @@
 ### Hi there I'm David 👋
 
+
+I'm not a great programmer; I'm just a good programmer with great habits like using Git, drinking coffee, and never giving up on a bug. I code, I break things, and sometimes I fix them too. When I'm not coding, I'm probably cruising, trying out new pizza places or playing Pokemon Go. Let's make some cool things together!
 <!--
 **david12291/david12291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
